@@ -8,3 +8,5 @@
 资料人工审核，最快5分钟即可审核通过
 
 微信官方10分钟审核，支付宝官方1小时审核
+
+![image](https://github.com/beiyifu/pay/blob/master/img.png)
